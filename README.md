@@ -1,2 +1,2 @@
 # Teste
-Teste versionamento
+Teste de versionamento de código - Git e GitHub
